@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "are-passive-events-supported": "^1.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "eventemitter3": "^4.0.4",
     "fuse.js": "^6.4.1",
     "js-cookie": "^2.2.1",
