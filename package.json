@@ -11,7 +11,7 @@
     "eventemitter3": "^4.0.4",
     "fuse.js": "^6.4.1",
     "js-cookie": "^2.2.1",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "quagga": "^0.12.1",
     "shortid": "^2.2.15",
     "sweetalert2": "^9.17.1",
